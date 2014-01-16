@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
+$font-family-sans-serif: lato;
+$body-bg:     #ecf0f1;
+$navbar-default-bg:  #c0392b;
+$navbar-default-link-color:  white;
+$jumbotron-bg: #2980b9;
+$jumbotron-heading-color: #ecf0f1;
+@import 'bootstrap'; 
+
+.center {
+	text-align: center; 
+
+}
+
+
+.navbar-brand {
+     font-weight: bold;
+}
+
